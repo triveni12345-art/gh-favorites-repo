@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Peppermint Icecream
 soft pretzels
 Celery
+=======
+abc
+xyz
+pqr
+>>>>>>> movies
